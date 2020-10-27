@@ -6,3 +6,4 @@
 5. Make changes/Edit
 6. Commit directly to MAIN Branch 
 7. Rinse and repeat
+8. Stop
