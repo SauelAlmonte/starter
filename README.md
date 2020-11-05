@@ -18,5 +18,5 @@
 16. * ==style.css== and
 17. * ==app.js==
 18. *Edited the new file called* **readme.md** *describing what I’ve done so far.* ==It is in proper markdown format==
-19. ![SAlmonte](AMPL Jacket.jpg)
+19. ![SAlmonte](https://github.com/SauelAlmonte/starter.git/AMPLJacket.jpg)
 20. Stop
