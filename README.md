@@ -17,6 +17,5 @@
 15. * ==index.html==
 16. * ==style.css== and
 17. * ==app.js==
-18. *Edited the new file called* **readme.md** *describing what I’ve done so far.* ==It is in proper markdown format==
-19. ![SAlmonte](https://github.com/SauelAlmonte/starter/blob/main/AMPLJacket.jpg)
-20. Stop
+18. ![SAlmonte](https://github.com/SauelAlmonte/starter/blob/main/AMPLJacket.jpg)
+19. Stop
