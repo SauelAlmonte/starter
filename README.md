@@ -17,6 +17,5 @@
 15. * ==index.html==
 16. * ==style.css== and
 17. * ==app.js==
-18. *Edited the new file called* **readme.md** *describing what I’ve done so far.* ==It is in proper markdown format==
-19. ![SAlmonte](AMPL Jacket.jpg) //you want this to link to the image directly. If you have a file names AMPL Jacket.jpg in the same folder it will be ![SAlmonte]("AMPL Jacket".jpg) .... not the "" 
-20. Stop
+18. ![SAlmonte](https://github.com/SauelAlmonte/starter/blob/main/AMPLJacket.jpg)
+19. Stop
