@@ -1,0 +1,1 @@
+const myFirstJSDiv = document.getElementById()
