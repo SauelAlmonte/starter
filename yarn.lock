@@ -1911,14 +1911,6 @@ proxy-middleware@latest:
   languageName: node
   linkType: hard
 
-"root-workspace-0b6124@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "root-workspace-0b6124@workspace:."
-  dependencies:
-    live-server: ^1.2.2
-  languageName: unknown
-  linkType: soft
-
 "safe-buffer@npm:5.1.2, safe-buffer@npm:~5.1.0, safe-buffer@npm:~5.1.1":
   version: 5.1.2
   resolution: "safe-buffer@npm:5.1.2"
@@ -2153,6 +2145,14 @@ send@latest:
   checksum: fb58f5e46b6923ae67b87ad5ef1c5ab6d427a17db0bead84570c2df3cd50b4ceb880ebdba2d60726588272890bae842a744e1ecce5bd2a2a582fccd5068309eb
   languageName: node
   linkType: hard
+
+"starter@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "starter@workspace:."
+  dependencies:
+    live-server: ^1.2.2
+  languageName: unknown
+  linkType: soft
 
 "static-extend@npm:^0.1.1":
   version: 0.1.2

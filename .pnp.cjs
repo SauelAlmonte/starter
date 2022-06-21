@@ -17,14 +17,14 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
     ],\
     "dependencyTreeRoots": [\
       {\
-        "name": "root-workspace-0b6124",\
+        "name": "starter",\
         "reference": "workspace:."\
       }\
     ],\
     "enableTopLevelFallback": true,\
     "ignorePatternData": "(^(?:\\\\.yarn\\\\/sdks(?:\\\\/(?!\\\\.{1,2}(?:\\\\/|$))(?:(?:(?!(?:^|\\\\/)\\\\.{1,2}(?:\\\\/|$)).)*?)|$))$)",\
     "fallbackExclusionList": [\
-      ["root-workspace-0b6124", ["workspace:."]]\
+      ["starter", ["workspace:."]]\
     ],\
     "fallbackPool": [\
     ],\
@@ -2193,16 +2193,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "linkType": "HARD"\
         }]\
       ]],\
-      ["root-workspace-0b6124", [\
-        ["workspace:.", {\
-          "packageLocation": "./",\
-          "packageDependencies": [\
-            ["root-workspace-0b6124", "workspace:."],\
-            ["live-server", "npm:1.2.2"]\
-          ],\
-          "linkType": "SOFT"\
-        }]\
-      ]],\
       ["safe-buffer", [\
         ["npm:5.1.2", {\
           "packageLocation": "./.yarn/cache/safe-buffer-npm-5.1.2-c27fedf6c4-f2f1f7943c.zip/node_modules/safe-buffer/",\
@@ -2464,6 +2454,16 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["minipass", "npm:3.3.3"]\
           ],\
           "linkType": "HARD"\
+        }]\
+      ]],\
+      ["starter", [\
+        ["workspace:.", {\
+          "packageLocation": "./",\
+          "packageDependencies": [\
+            ["starter", "workspace:."],\
+            ["live-server", "npm:1.2.2"]\
+          ],\
+          "linkType": "SOFT"\
         }]\
       ]],\
       ["static-extend", [\

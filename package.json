@@ -4,5 +4,20 @@
   },
   "scripts": {
     "dev": "live-server ."
-  }
+  },
+  "name": "starter",
+  "description": "HTML, CSS, JavaScript example",
+  "version": "1.0.0",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SauelAlmonte/starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SauelAlmonte/starter/issues"
+  },
+  "homepage": "https://github.com/SauelAlmonte/starter#readme"
 }
